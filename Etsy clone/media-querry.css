@@ -1,0 +1,14 @@
+/* @media (max-width:450px ) {
+    .section-2{
+        flex-direction:column;
+    }
+} */
+
+@media (max-width:600px) {
+    .second-section, .search-bar{
+        display: none;
+    }
+    
+}
+
+
